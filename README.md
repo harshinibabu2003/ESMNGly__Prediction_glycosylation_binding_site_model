@@ -1,0 +1,2 @@
+# ESMNGly__Prediction_glycosylation_binding_site_model
+glycosylation binding site prediction model from pretrained protein language model embeddings
