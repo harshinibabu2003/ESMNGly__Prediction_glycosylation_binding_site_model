@@ -25,10 +25,15 @@ and trained classification models, it helps researchers quickly identify potenti
 ## 📦 Frameworks & Libraries
 
 🧠 Embedding Extraction: ESM-2 (Hugging Face Transformers)
+
 🔬 Secondary Structure Features: NetSurfP-3.0
+
 📊 Model Training: TensorFlow / Keras
+
 ⚙️ Data Processing: NumPy, Pandas, Scikit-learn
+
 📈 Visualization: Matplotlib, Seaborn
+
 💻 Environment: Python 3.x
 
 ---
