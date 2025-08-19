@@ -39,10 +39,9 @@ Using **advanced sequence embeddings** from the **pretrained protein language mo
 ---
 ## 📊 Data Availability
 
-The datasets used for training and evaluation are available on **Google Drive**:  
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-Access%20Dataset-green?logo=googledrive)](https://drive.google.com/drive/folders/1zdcsRDUCf2uLL62eeuqUYqpn1k95I6H5?usp=drive_link)  
+The datasets used for training and evaluation are available on[![Google Drive](https://img.shields.io/badge/Google%20Drive-Access%20Dataset-green?logo=googledrive)](https://drive.google.com/drive/folders/1zdcsRDUCf2uLL62eeuqUYqpn1k95I6H5?usp=drive_link)  
 
-⚠️ *Note:* Due to size constraints, datasets are hosted externally and not included directly in this repository.  
+⚠️Note:Due to size constraints, datasets are hosted externally and not included directly in this repository.  
 ---
 ## Acknowledgements
 
