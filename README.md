@@ -40,9 +40,15 @@ Using **advanced sequence embeddings** from the **pretrained protein language mo
 ## 📊 Data Availability
 
 The datasets used for training and evaluation are available on **google drive**
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-Access%20Dataset-green?logo=googledrive)](https://drive.google.com/drive/folders/1zdcsRDUCf2uLL62eeuqUYqpn1k95I6H5?usp=drive_link)  
 
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Access%20Dataset-green?logo=googledrive)](https://drive.google.com/drive/folders/1zdcsRDUCf2uLL62eeuqUYqpn1k95I6H5?usp=drive_link)  
 ---
+## 📂 Sample Prediction  
+
+Follow these steps to run a prediction:  
+
+1️⃣ **Input a Protein Sequence** 
+
 ## Acknowledgements
 
 Facebook AI Research for ESM-2,DTU Health Tech for NetSurfP-3.0,Hugging Face Transformers,TensorFlow / Keras / Scikit-learn,Open-source community 
