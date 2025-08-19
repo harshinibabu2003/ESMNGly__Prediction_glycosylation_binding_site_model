@@ -37,6 +37,18 @@ Using **advanced sequence embeddings** from the **pretrained protein language mo
 💻 Environment: Python 3.x
 
 ---
+## 📊 Data Availability
+
+The datasets used for training and evaluation are available on Google Drive:
+
+👉 Access the dataset here
+
+⚠️ Note: Datasets are hosted externally and not included in this repository due to size limitations.
+
+---
+## Acknowledgements
+
+Facebook AI Research for ESM-2,DTU Health Tech for NetSurfP-3.0,Hugging Face Transformers,TensorFlow / Keras / Scikit-learn,Open-source community 
 
 
 
