@@ -1,5 +1,5 @@
 
-# 🧬 ESMNGly — N-Glycosylation Binding Site Prediction Model
+# 🧬ESMNGly-N-Glycosylation Binding Site Prediction Model
 
 **ESMNGly** is a deep learning-based tool that predicts **N-glycosylation binding sites** in proteins.  
 Using **advanced sequence embeddings** from the **pretrained protein language model ESM-2** (Evolutionary Scale Modeling)  
