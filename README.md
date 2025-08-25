@@ -50,9 +50,22 @@ Follow these steps to run a prediction:
 <img width="1910" height="964" alt="image" src="https://github.com/user-attachments/assets/55e7ca47-eaa8-49d8-8de1-34e7ac1cfd43" />
 
 
-1️⃣ **Input a Protein Sequence** 
+1️⃣ **Input a Protein Sequence** **in FASTA format.**
 
 <img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/2eff6de6-ddac-4cbc-b4a3-e501fea88a95" />
+
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/b687a517-2b99-448e-86ac-531fa6cf5f66" />
+
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/f1236aa0-e6b3-4897-aa89-8bfe18d66c35" />
+
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/8700c1f4-d6f6-4b3f-97ab-f43b97433c88" />
+
+<img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/931b9ff4-9001-49ef-8cce-38974a61b487" />
+
+2️⃣**click on Start Prediction**
+
+
+
 
 
 # ESMNGly-WEB TOOL
