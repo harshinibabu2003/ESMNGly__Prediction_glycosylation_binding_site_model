@@ -47,9 +47,18 @@ The datasets used for training and evaluation are available on **google drive**
 
 Follow these steps to run a prediction:  
 
+<img width="1910" height="964" alt="image" src="https://github.com/user-attachments/assets/55e7ca47-eaa8-49d8-8de1-34e7ac1cfd43" />
+
+
 1️⃣ **Input a Protein Sequence** 
 
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/2eff6de6-ddac-4cbc-b4a3-e501fea88a95" />
+
+
+# ESMNGly-WEB TOOL
+
 <img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/a02687c5-f56c-4aaf-84b7-9d0e776cd1d4" />
+
 <img width="1881" height="1025" alt="image" src="https://github.com/user-attachments/assets/430a8107-1edc-47fe-bb33-839f5681ef22" />
 
 
