@@ -48,6 +48,8 @@ The datasets used for training and evaluation are available on **google drive**
 Follow these steps to run a prediction:  
 
 1️⃣ **Input a Protein Sequence** 
+<img width="1790" height="935" alt="image" src="https://github.com/user-attachments/assets/370414d3-4e83-4bd9-8888-4fab59dd03b1" />
+
 
 ## Acknowledgements
 
